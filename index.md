@@ -1,32 +1,33 @@
-## Hi, I'm Mike Reczek
 
-I’m a [UX Designer / Software Engineer] passionate about solving real user problems through thoughtful design and clean execution.
+# Hi, I'm Mike Reczek
 
-[View My Projects](#featured-projects) | [Resume](#resume) | [Contact](#contact)
+I'm a software engineering student at Milwaukee School of Engineering (MSOE), interested in building software, solving problems, and understanding how things work under the hood.
+
+I enjoy tackling technical challenges, learning new technologies, and turning ideas into working solutions.
+
+[View My Projects](#projects) | [Resume](#resume) | [Contact](#contact)
 
 ---
 
 ### About Me
-I specialize in [mention 2–3 core skills, e.g., user research, wireframing, front-end development]. Currently, I am focused on [your current focus, e.g., completing my degree / building human-centered web tools].
+
+I'm currently studying software engineering at MSOE, where I'm developing my skills in programming, software development, and problem-solving.
+
+I'm interested in expanding my technical knowledge, taking on challenging projects, and becoming a better developer through hands-on experience.
 
 ---
 
-### Featured Projects
+### Projects
 
-#### 1. [Project One Title]
-*Role: [Your Role] | Context: [Class / Internship / Side Project]*  
-A brief 1–2 sentence overview of the problem you solved, your process, and the outcome.  
-**[Read Case Study →](#)**
+A collection of programming projects, coursework, and other work I've developed.
 
-#### 2. [Project Two Title]
-*Role: [Your Role] | Context: [Class / Internship / Side Project]*  
-A brief 1–2 sentence overview of the problem you solved, your process, and the outcome.  
-**[Read Case Study →](#)**
+<!-- Add two project descriptions here once selected. -->
 
 ---
 
 ### Resume & Contact
-* **Resume:** [Download PDF](#) *(or link to a Google Doc)*
-* **Email:** [reczekm@msoe.edu](mailto:reczekm@msoe.edu)
-* **LinkedIn:** [linkedin.com/in/michael-reczek-49395b451](#)
-* **GitHub:** [github.com/mjreczek](https://github.com/mjreczek)
+
+- **Resume:** [View My Resume](#)
+- **Email:** [reczekm@msoe.edu](mailto:reczekm@msoe.edu)
+- **LinkedIn:** [Michael Reczek](https://www.linkedin.com/in/michael-reczek-49395b451/)
+- **GitHub:** [github.com/mjreczek](https://github.com/mjreczek)
