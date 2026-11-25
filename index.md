@@ -5,7 +5,7 @@ I'm a software engineering student at Milwaukee School of Engineering (MSOE), in
 
 I enjoy tackling technical challenges, learning new technologies, and turning ideas into working solutions.
 
-[View My Projects](#projects) | [Resume](#resume) | [Contact](#contact)
+[View My Projects](#projects) | [Resume (in progress)](#resume) | [Contact](#contact)
 
 ---
 
